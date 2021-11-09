@@ -16,8 +16,10 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", icon: home}
+  - {file: "index.html", title: "Lab Home"}
   - {file: "README.md", icon: address-card}
+  - {title: "Lab Website", url: "https://www.nrel.colostate.edu/investigator/jody-vogeler-homepage/"}
+  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:nealswayze1@gmail.com"}
