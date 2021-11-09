@@ -35,4 +35,4 @@ Below is a visualized three dimensional example of GEDI footprint elevations acr
 
 Each point in this image is a GEDI waveform footprint, scaled on the Z axis as elevation. 
 
-
+{% include embed.html url="https://vimeo.com/manage/videos/643992138" %}
