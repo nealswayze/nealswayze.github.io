@@ -12,3 +12,6 @@ Posts will include code examples, cool visualizations, and general project updat
 It will continously be updated with cool science info and related remote sensing information, so feel free to check everything out!
 
 ![3D Tree - Neal Swayze](https://i.imgur.com/ZWOQWTy.png)
+
+Photogrammetry point cloud of ponderosa pine trees - Manitou Experimental Forest
+By Neal Swayze
