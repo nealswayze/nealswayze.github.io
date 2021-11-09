@@ -13,5 +13,4 @@ It will continously be updated with cool science info and related remote sensing
 
 ![3D Tree - Neal Swayze](https://i.imgur.com/ZWOQWTy.png)
 
-Photogrammetry point cloud of ponderosa pine trees - Manitou Experimental Forest
-By Neal Swayze
+Photogrammetry Point Cloud of Ponderosa Pine Trees - Neal Swayze
