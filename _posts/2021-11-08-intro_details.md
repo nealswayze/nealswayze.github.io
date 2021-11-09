@@ -1,5 +1,5 @@
 ---
-title: "Jody Vogeler Lab Website"
+title: "Post Basics"
 layout: post
 ---
 
