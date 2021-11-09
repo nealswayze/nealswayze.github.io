@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog"
+title: "Globabl Ecoystem Dynamics Investigation: Data Visualization"
 ---
 
 testing testing
