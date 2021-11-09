@@ -5,13 +5,15 @@ layout: post
 
 ## GEDI Project - Overview
 
-At the Vogeler lab, we are all about exploring new ways to leverage, model, and visualize remote sensing data. 
+Within the Vogeler Research lab, we are all about exploring new ways to leverage, model, and visualize remote sensing data to incorporate into ecological applications.
 
-The NASA Global Ecosystem Dynamics Investigation (aka GEDI) is a recent NASA project using high-resolution laser ranging observations to model the three-dimensional structure of the earth. The GEDI instrument makes precise measurements of forest canopy height, canopy vertical structure, and surface elevation.
+The NASA Global Ecosystem Dynamics Investigation (aka GEDI) is a recent NASA project using high resolution laser ranging observations to model the three dimensional structure of the earth. The GEDI instrument makes precise measurements of forest canopy height, canopy vertical structure, and surface elevation.
 
-The GEDI sensor sends out pulses of laser light, which travel from the sensor to the earth's surface, interact with the ground/vegetation, then a proportion of the light pulse returns and is captured by the sensor's telescope. The time between the emission and reception of the light pulse is then used to calculate a waveform (distribution). These waveforms are further processed to estimate an elevation, ground surface, and a variety of canopy metrics, including relative height, percent cover, foilage height diversity, and plant area index.
+The GEDI sensor sends out pulses of laser light, which travel from the sensor to the earths surface, interact with the ground/vegetation, then a certain proportion of the light pulse returns and is captured by the sensors telescope. The time between the emission and reception of the light pulse is then used to calculate a waveform (distribution). These waveforms are further processed to estimate an elevation, ground surface, and a variety of canopy metrics, including relative height, percent cover, foliage height diversity, and plant area index.
 
-Part of investigating new data comes with the task of visualizing abstract data. Sure, tables and graphs are typical, but what about something a bit more visually appealing? 
+The goal of our GEDI project will be to investigate data fusions for “scaling-up” GEDI footprint information to landscape scales using additional continuous remote sensing data sources. The landscape scale structure metrics will then be incorporated into habitat modeling for wildlife species of management and conservation interest, and for identifying diversity “hotspots” of these species. 
+
+Part of investigating new data comes with the task of visualizing abstract data. Sure, tables and graphs are typical, but what about something a bit more visually appealing?
 
 ## Visualizing GEDI Footprint Data
 
@@ -34,6 +36,7 @@ Part of investigating new data comes with the task of visualizing abstract data.
 Below is a visualized three-dimensional example of GEDI footprint elevations across our desired study region (spanning Colorado, Wyoming, Idaho, Oregon, Washington, and Montana)
 
 ![title](https://i.imgur.com/Z6c221z.jpg)
+Gedi spaceborn LiDAR elevations - Neal Swayze
 
 Each point in this image is a GEDI waveform footprint, scaled on the Z axis as elevation. 
 
