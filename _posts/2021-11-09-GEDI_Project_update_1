@@ -15,7 +15,6 @@ One of my recent efforts has been focused on visulazing GEDI spaceborne LiDAR da
 
 Starting from the top, here is an image representing the available GEDI data for our selected study states (Colorado, Wyoming, Idaho, Oregon, Washington, and Montana)
 
-![title](https://imgur.com/a/qG7IexK)
+![title](https://i.imgur.com/Z6c221z.jpg)
 
 Each point in this image is a GEDI waveform footprint, visualized as a .las file
-
