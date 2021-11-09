@@ -11,4 +11,4 @@ Posts will include code examples, cool visualizations, and general project updat
 
 It will continously be updated with cool science info and related remote sensing information, so feel free to check everything out!
 
-![Manitou Experimental Forest](/assets/forest_image_1.jpg))
+![Manitou Experimental Forest](nealswayze.github.io/assets/forest_image_1.jpg))
