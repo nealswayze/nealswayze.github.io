@@ -37,17 +37,22 @@ Below is a visualized three-dimensional example of GEDI footprint elevations acr
 
 Each point in this image is a GEDI waveform footprint, scaled on the Z axis as elevation. 
 
+## Visualizing a Single GEDI Footprint
+
 {% include embed.html url="https://vimeo.com/643992138" %}
 
-## dotnet evergreen
 
+
+<video src= "https://player.vimeo.com/video/643992138?h=4b2f89dc24&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" controls="controls" style="max-width: 730px;">
+</video>
+
+{% include vimeoPlayer.html id=page.vimeoId %}
 
 ```
 > dotnet evergreen dotnet-tor
 ```
 
-<video src= "https://player.vimeo.com/video/643992138?h=4b2f89dc24&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" controls="controls" style="max-width: 730px;">
-</video>
+
 
 <video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" style="max-width: 730px;">
 </video>
