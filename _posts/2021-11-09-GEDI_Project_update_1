@@ -1,0 +1,21 @@
+---
+title: "Vogeler Lab Website - About"
+layout: post
+---
+
+At the Vogeler lab, we are all about exploring new ways to leverage, model, and visualize remote sensing data. 
+
+The NASA Global Ecosystem Dynamics Investigation (aka GEDI) is a recent NASA project using high resolution laser ranging observations of the 3D structure of the earth.
+
+The data produced by the GEDI sensor contains a variety of different metrics, including elevation, canopy height profiles, percent forest cover, among others.
+
+Part of investigating new data comes with the task of visualizing abstract data. Sure, tables and graphs are awesome, but what about something a bit more visually appealing? 
+
+One of my recent efforts has been focused on visulazing GEDI spaceborne LiDAR data in three dimensional space. 
+
+Starting from the top, here is an image representing the available GEDI data for our selected study states (Colorado, Wyoming, Idaho, Oregon, Washington, and Montana)
+
+![title](https://imgur.com/a/qG7IexK)
+
+Each point in this image is a GEDI waveform footprint, visualized as a .las file
+
