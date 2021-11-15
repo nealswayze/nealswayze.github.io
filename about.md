@@ -5,9 +5,7 @@ layout: page
 
 ## Overview
 
-I am passionate about finding new applications of remote sensing for monitoring natural resources. 
-
-I develop novel remote sensing methods that researchers and land managers use for monitoring the natural world.
+I am passionate about developing novel applications of remote sensing for monitoring natural resources. 
 
 ![neal_headshot](/photos_and_media/aux_photos/headshot_edited.jpg)
 
