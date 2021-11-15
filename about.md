@@ -19,9 +19,14 @@ I am passionate about improving and advancing the methods that scientists and la
 
 I have worked with a variety of different stakeholders and researchers to leverage remote sensing data for natural resource monitoring:
 
-- Colorado Natural Heritage Program "https://cnhp.colostate.edu/"
-- Forest Biometrics Labratory  "https://sites.warnercnr.colostate.edu/wtinkham/forest-biometrics-lab/"
-- Snaplands LLC  "https://snaplands.com/"
-- NASA Develop  "https://develop.larc.nasa.gov"
-- Jody Vogeler Lab  "https://www.nrel.colostate.edu/investigator/jody-vogeler-homepage/"
+- [Colorado Natural Heritage Program][Colorado-Natural-Heritage-Program]
+- [Forest Biometrics Lab][Forest-Biometrics-Lab]
+- [Snaplands LLC][Snaplands-LLC]
+- [NASA Develop][NASA-Develop]
+- [Jody Vogeler Lab][Jody-Vogeler-Lab]
 
+[Colorado-Natural-Heritage-Program]: https://cnhp.colostate.edu/
+[Forest-Biometrics-Lab]: https://sites.warnercnr.colostate.edu/wtinkham/forest-biometrics-lab/
+[Snaplands-LLC]: https://snaplands.com/
+[NASA-Develop]: https://develop.larc.nasa.gov
+[Jody-Vogeler-Lab]: https://www.nrel.colostate.edu/investigator/jody-vogeler-homepage/
