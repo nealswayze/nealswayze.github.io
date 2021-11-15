@@ -5,7 +5,7 @@ layout: page
 
 ## Overview
 
-I am an emerging researcher in natural resource monitoring focused on the applications of remote sensing for modeling and monitoring natural resources. 
+I am an emerging researcher focused on the applications of remote sensing for modeling and monitoring natural resources. 
 
 I am passionate about improving and advancing the methods that scientists and land managers use for monitoring the natural world.
 
