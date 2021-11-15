@@ -22,7 +22,7 @@ I am passionate about developing novel applications of remote sensing for monito
   - Multitemporal RGB and Multispectral Image Collection
   - Photogrammetry Processing (Agisoft Metashape, RealityCapture)
   - Structure from Motion Point Cloud Processing (ground classification, filtering, rasterization)
-  - Point Cloud Segmentation (individual tree height, crown area, and dBH detection)
+  - Point Cloud Feature Extraction (individual tree height, crown area, and DBH detection)
   - Stand Level Forest Structure Characterization (tree count estimates, basal area, above ground biomass)
 
 #### Satellite Remote Sensing Data
