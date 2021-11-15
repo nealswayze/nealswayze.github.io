@@ -16,6 +16,7 @@ I am passionate about developing novel applications of remote sensing for monito
 ## Work Experience
 
 #### Unmanned Aerial Systems (UAS) 
+  - Licensed FAA part 107 UAS pilot since 2018
   - Flight planning and airspace clearance
   - High accuracy ground control planning and collection
   - Multitemporal RGB and Multispectral image collection
