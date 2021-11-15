@@ -17,10 +17,10 @@ I am passionate about developing novel applications of remote sensing for monito
 
 #### Unmanned Aerial Systems (UAS) 
   - Licensed FAA part 107 UAS pilot since 2018
-  - Flight planning and airspace clearance
-  - High accuracy ground control planning and collection
-  - Multitemporal RGB and Multispectral image collection
-  - Photogrammetry processing (Agisoft Metashape, RealityCapture)
+  - Flight Planning and Airspace Clearance
+  - High Accuracy Ground Control Planning And Collection
+  - Multitemporal RGB and Multispectral Image Collection
+  - Photogrammetry Processing (Agisoft Metashape, RealityCapture)
   - Structure from Motion Point Cloud Processing (ground classification, filtering, rasterization)
   - Point Cloud Segmentation (individual tree height, crown area, and dBH detection)
   - Stand Level Forest Structure Characterization (tree count estimates, basal area, above ground biomass)
