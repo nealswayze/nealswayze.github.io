@@ -15,7 +15,7 @@ I am passionate about developing novel applications of remote sensing for monito
 
 ## Work Experience
 
-### Unmanned Aerial Systems (UAS) 
+#### Unmanned Aerial Systems (UAS) 
   - Flight planning and airspace clearance
   - High accuracy ground control planning and collection
   - Multitemporal RGB and Multispectral image collection
@@ -24,14 +24,14 @@ I am passionate about developing novel applications of remote sensing for monito
   - Point Cloud Segmentation (individual tree height, crown area, and dBH detection)
   - Stand Level Forest Structure Characterization (tree count estimates, basal area, above ground biomass)
 
-### Satellite Remote Sensing Data
+#### Satellite Remote Sensing Data
   - NASA-GEDI Waveform Spaceborne LiDAR
   - NASA-ICESat-2 Photon Spaceborn LiDAR
   - NASA-Landsat Time Series Generation
   - NASA SRTM Topography Metrics
   - Sentinel-1 C-Band Synthetic Apperature Radar
 
-### Applications of Remote Sensing
+#### Applications of Remote Sensing
 
 - Rare Plant Mapping [Colorado Natural Heritage Program][Colorado-Natural-Heritage-Program]
 - Fine Scale Forest Structure Characterization [Forest Biometrics Lab][Forest-Biometrics-Lab]
