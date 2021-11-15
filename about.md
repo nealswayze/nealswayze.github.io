@@ -7,7 +7,7 @@ layout: page
 
 I am an emerging researcher focused on the applications of remote sensing for modeling and monitoring natural resources. 
 
-I am passionate about improving and advancing the methods that scientists and land managers use for monitoring the natural world.
+I am passionate about improving the methods that scientists and land managers use for monitoring the natural world.
 
 ![neal_headshot](/photos_and_media/aux_photos/headshot_edited.jpg)
 
