@@ -1,5 +1,5 @@
 ---
-title: "Neal Swayze - About"
+title: "Neal Swayze"
 layout: page
 ---
 
