@@ -17,7 +17,7 @@ I am work on improving the methods that scientists and land managers use for mon
 
 ## Work Experience
 
-I have worked with a variety of different stakeholders and researchers to leverage remote sensing data for natural resource monitoring:
+I have worked with a variety of stakeholders and researchers to leverage remote sensing data for natural resource monitoring:
 
 - [Colorado Natural Heritage Program][Colorado-Natural-Heritage-Program]
 - [Forest Biometrics Lab][Forest-Biometrics-Lab]
