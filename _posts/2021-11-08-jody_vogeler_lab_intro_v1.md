@@ -1,5 +1,5 @@
 ---
-title: "Vogeler Lab Website - About"
+title: "Vogeler Lab Website"
 layout: post
 ---
 
