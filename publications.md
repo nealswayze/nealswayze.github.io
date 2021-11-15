@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Neal Swayze - Publications
+title: Publications
 ---
 
 This is where I am going to put my publications!!
