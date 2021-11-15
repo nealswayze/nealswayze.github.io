@@ -15,9 +15,9 @@ I am passionate about improving and advancing the methods that scientists and la
 - B.S in Ecosystem Science and Sustainability from Colorado State Unviersity in 2018
 - M.S in Forest Science from CSU in 2020
 
-## Experience
+## Work Experience
 
-I have worked with a variety of different stakeholders and researchers to leverage remote sensing data for natural resource monitoring. 
+I have worked with a variety of different stakeholders and researchers to leverage remote sensing data for natural resource monitoring:
 
 - Colorado Natural Heritage Program {% https://cnhp.colostate.edu/ %}
 - Forest Biometrics Labratory {% https://sites.warnercnr.colostate.edu/wtinkham/forest-biometrics-lab/ %}
