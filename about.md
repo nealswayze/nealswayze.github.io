@@ -44,4 +44,4 @@ I am passionate about developing novel applications of remote sensing for monito
 [Forest-Biometrics-Lab]: https://sites.warnercnr.colostate.edu/wtinkham/research-activities/
 [Snaplands-LLC]: https://snaplands.com/your-snaplands-team/
 [NASA-Develop]: https://develop.larc.nasa.gov/2021/spring/ColoradoFrontRangeDisasters.html
-[Jody-Vogeler-Lab]: https://www.nrel.colostate.edu/investigator/jody-vogeler-homepage/
+[Jody-Vogeler-Lab]: https://www.nrel.colostate.edu/investigator/jody-vogeler-lab-members
