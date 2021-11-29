@@ -40,8 +40,8 @@ I am passionate about developing novel applications of remote sensing for monito
 - Fire Severity Mapping [NASA Develop][NASA-Develop]
 - State Level Forest Structure Modeling [Jody Vogeler Lab][Jody-Vogeler-Lab]
 
-[Colorado-Natural-Heritage-Program]: https://cnhp.colostate.edu/
+[Colorado-Natural-Heritage-Program]: https://cnhp.colostate.edu/projects/rare-plant-mapping-monitoring/#Parachutepenstemon
 [Forest-Biometrics-Lab]: https://sites.warnercnr.colostate.edu/wtinkham/research-activities/
-[Snaplands-LLC]: https://snaplands.com/
+[Snaplands-LLC]: https://snaplands.com/your-snaplands-team/
 [NASA-Develop]: https://develop.larc.nasa.gov/2021/spring/ColoradoFrontRangeDisasters.html
 [Jody-Vogeler-Lab]: https://www.nrel.colostate.edu/investigator/jody-vogeler-homepage/
