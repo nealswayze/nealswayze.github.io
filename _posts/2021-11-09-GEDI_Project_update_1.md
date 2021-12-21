@@ -3,13 +3,11 @@ title: "GEDI Data Processing and Visualization - Post 1"
 layout: post
 ---
 
-Within the Vogeler Research lab, we are all about exploring new ways to leverage, model, and visualize remote sensing data to incorporate into ecological applications.
-
 The NASA Global Ecosystem Dynamics Investigation (aka GEDI) is a recent NASA project using high resolution laser ranging observations to model the three dimensional structure of the earth. The GEDI instrument makes precise measurements of forest canopy height, canopy vertical structure, and surface elevation.
 
 The GEDI sensor sends out pulses of laser light, which travel from the sensor to the earths surface, interact with the ground/vegetation, then a certain proportion of the light pulse returns and is captured by the sensors telescope. The time between the emission and reception of the light pulse is then used to calculate a waveform (distribution). These waveforms are further processed to estimate an elevation, ground surface, and a variety of canopy metrics, including relative height, percent cover, foliage height diversity, and plant area index.
 
-The goal of our GEDI project will be to investigate data fusions for “scaling-up” GEDI footprint information to landscape scales using additional continuous remote sensing data sources. The landscape scale structure metrics will then be incorporated into habitat modeling for wildlife species of management and conservation interest, and for identifying diversity “hotspots” of these species. 
+The goal of the GEDI project will be to investigate data fusions for “scaling-up” GEDI footprint information to landscape scales using additional continuous remote sensing data sources. The landscape scale structure metrics will then be incorporated into habitat modeling for wildlife species of management and conservation interest, and for identifying diversity “hotspots” of these species. 
 
 Part of investigating new data comes with the task of visualizing abstract data. Sure, tables and graphs are typical, but what about something a bit more visually appealing?
 
@@ -134,7 +132,7 @@ for (i in seq(list)){
 - You have sucsessfully processed your first GEDI granule into a more usable format! 
     - Your processing folder should look similar to the image below
 
-![title](/photos_and_media/gedi_post_photos/gedi_post_1_example_outputs.PNG)
+#![title](/photos_and_media/gedi_post_photos/gedi_post_1_example_outputs.PNG)
 
 ## Visualizing GEDI Data
 
@@ -142,7 +140,7 @@ for (i in seq(list)){
 
   - Step 5: Lets use QGIS to visualize the shapefile: 
 
-![title](/photos_and_media/gedi_post_photos/gedi_post_1_points_on_map.PNG)
+#![title](/photos_and_media/gedi_post_photos/gedi_post_1_points_on_map.PNG)
 
   - This is the filtered GEDI footprint data. Zooming in shows us a nice distrubtion of gedi footprints for the four beams.
 
@@ -176,10 +174,10 @@ write.las(file, lasheader, lasdata)
 - Step 7. Now you have a .las file containing all of your GEDI footprints, which you can visualize in CloudCompare
     - Now we can see the elevation of the GEDI footprints in 3D space for each beam track! 
 
-![title](/photos_and_media/gedi_post_photos/gedi_post_1_las_file_footprint_example.jpg)
+#![title](/photos_and_media/gedi_post_photos/gedi_post_1_las_file_footprint_example.jpg)
 
 - This method can be adapted to visualize GEDI data in all sorts of new ways. Here is a 3D example of GEDI footprint elevations across our GEDI project study area (spanning Colorado, Wyoming, Idaho, Oregon, Washington, and Montana) Each point in this image is a GEDI waveform footprint, scaled on the Z axis as elevation. 
 
-![title](/photos_and_media/gedi_post_photos/gedi_post_1_study_states_footprints.jpg)
+#![title](/photos_and_media/gedi_post_photos/gedi_post_1_study_states_footprints.jpg)
 
 - Hopefully this post helps someone get more comfortable with basic processing and visualization of GEDI data!
