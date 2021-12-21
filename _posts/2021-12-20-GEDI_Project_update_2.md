@@ -7,7 +7,7 @@ In our previous post, we demonstrated a basic outline for processing and visuali
 
 In order to know what we can use GEDI data for, we need to get an idea of how well it estimates 3D forest structure, like maximum canopy height, percent cover, and more. We can leverage aerial LiDAR (ALS) or Structure from Motion (SfM) derived point cloud data to validate GEDI waveform data. Here is an example of some high density ALS from the Kaibab National Forest in Arizona collected in 2019. 
 
-![title](/photos_and_media/gedi_post_photos/gedi_post_2_als_example.jpg)
+![title](/photos_and_media/gedi_post_photos/gedi_post_2_als_example_v1.jpg)
 
 The idea behind validating GEDI footprint data with ALS data is to use ALS data as "truth", and directly compare ALS forest structure metrics to GEDI forest structure metrics. We just need to make sure that we use ALS data collected around the same time as the GEDI footprint data. 
 
