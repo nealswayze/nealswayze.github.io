@@ -1,11 +1,11 @@
 ---
-title: "Vogeler Lab Website"
+title: "Neal Swayze's Website"
 layout: post
 ---
 
 Welcome!
 
-The goal of this website is to provide updated information about on-going Vogeler Research lab projects and research.
+The goal of this website is to provide updated information about my on-going research, and data exploration.
 
 Posts will include code examples, cool visualizations, and general project updates.
 
